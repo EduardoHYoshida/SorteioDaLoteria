@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+    flex-direction: column;
+}
+#stBotao{
+      margin: 4px;
+      color: white;
+      background-color: blue;
+      border-radius: 4px;  
+      width: 125px;
+      height: 40px;
+      border: none;
+}
